@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhupendras1ngh
 - 👀 I’m interested in web development , machine learning
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently working at ATCS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Bhupendras1ngh
 - 👀 I’m interested in web development , machine learning
 - 🌱 I’m currently working at ATCS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me bhupendrasingh.phe18@iitbhu.ac.in
 
 <!---
 Bhupendras1ngh/Bhupendras1ngh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

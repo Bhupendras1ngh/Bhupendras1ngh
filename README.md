@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Bhupendras1ngh
 - 👀 I’m interested in web development , machine learning
 - 🌱 I’m currently working at ATCS
+- 🎓 I'm graduated from IIT-BHU
 - 📫 Connect me at https://www.linkedin.com/in/bhupendra-s1ngh/
 
 <!---

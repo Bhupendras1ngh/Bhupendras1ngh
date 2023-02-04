@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Bhupendras1ngh
 - 👀 I’m interested in web development , machine learning
-- 🌱 I’m currently working at ATCS
+- 🌱 I’m currently working at Nagarro
 - 🎓 B-tech from IIT-BHU
+- 🤹 AngularJs, ReactJs, Machine Learning, NLP, Neural Networks 
+- 🎃 C++, Python, JavaScript, TypeScript, HTML, Octave
 - 📫 Connect me at https://www.linkedin.com/in/bhupendra-s1ngh/
 
 <!---

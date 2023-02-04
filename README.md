@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhupendras1ngh
-- 👀 I’m interested in web development , machine learning
+- 👀 I’m interested in web development , machine learning ,Backend developement.
 - 🌱 I’m currently working at Nagarro
 - 🎓 B-tech from IIT-BHU
 - 🤹 AngularJs, ReactJs, Machine Learning, NLP, Neural Networks 

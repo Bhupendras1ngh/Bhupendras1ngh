@@ -5,6 +5,7 @@
 - 🤹 AngularJs, ReactJs, ExpressJs,NodeJs, Machine Learning, NLP, Neural Networks 
 - 🎃 C++, Python, JavaScript, TypeScript, HTML, Octave ,Mongodb, SQL
 - 📫 Connect me at https://www.linkedin.com/in/bhupendra-s1ngh/
+- 😃 अपना क्या इस जीवन में सब तो लिया उधार, सारा लोहा उन लोगों का अपनी तो केवल धार!
 
 <!---
 Bhupendras1ngh/Bhupendras1ngh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

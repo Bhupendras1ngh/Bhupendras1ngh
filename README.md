@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development , machine learning ,Backend developement.
 - 🌱 I’m currently working at Nagarro
 - 🎓 B-tech from IIT-BHU
-- 🤹 AngularJs, ReactJs, ExpressJs, NodeJs, Machine Learning, NLP, Neural Networks 
+- 🤹 AngularJs, ReactJs, ExpressJs, Machine Learning, NLP, Neural Networks 
 - 🎃 C++, Python, JavaScript, TypeScript, HTML, Octave ,Mongodb, SQL, Tableau
 - ⌨️ Data Structure & Algorithms
 - 📫 Connect me at https://www.linkedin.com/in/bhupendra-s1ngh/
